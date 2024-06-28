@@ -57,17 +57,17 @@ outputs.
 
 ## Compiling and Using
 
-* From the directory containing all the source files, compile the classes:
-$ javac MaxHeap.java MyLifeInStardew.java MyPriorityQueue.java PriorityQueueInterface.java StardewDailyClock.java Task.java TaskGenerator.java TaskGeneratorInterface.java TaskInterface.java
+From the directory containing all the source files, compile the classes:
+* $ javac MaxHeap.java MyLifeInStardew.java MyPriorityQueue.java PriorityQueueInterface.java StardewDailyClock.java Task.java TaskGenerator.java TaskGeneratorInterface.java TaskInterface.java
 
-* Run MyLifeInStardew.java, the output will display how to run it.
-$ java MyLifeInStardew
+Run MyLifeInStardew.java, the output will display how to run it.
+* $ java MyLifeInStardew
 
 Output: java MyLifeInStardew Usage: java MyLifeInStardew  <max-priority>   <time-to-increment-priority>  
-<total simulation-time in days>   <task-generation-probability>   [<seed>]
+* <total simulation-time in days>   <task-generation-probability>   [<seed>]
 
 Run MyLifeInStardew.java with arguments <5> <1> <1> <0.5> <123>:
-$ java MyLifeInStardew 5 1 1 0.5 123
+* $ java MyLifeInStardew 5 1 1 0.5 123
 
 Outputs MyLifeInStardewValley Simulation:
 
