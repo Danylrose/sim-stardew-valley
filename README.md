@@ -63,8 +63,9 @@ From the directory containing all the source files, compile the classes:
 Run MyLifeInStardew.java, the output will display how to run it.
 * $ java MyLifeInStardew
 
-Output: java MyLifeInStardew Usage: java MyLifeInStardew  <max-priority>   <time-to-increment-priority>  
-- <total simulation-time in days>   <task-generation-probability>   [<seed>]
+Output: java MyLifeInStardew Usage: 
+
+* $ java MyLifeInStardew  <max-priority>   <time-to-increment-priority>  <total simulation-time in days>   <task-generation-probability>   [<seed>]
 
 Run MyLifeInStardew.java with arguments <5> <1> <1> <0.5> <123>:
 * $ java MyLifeInStardew 5 1 1 0.5 123
