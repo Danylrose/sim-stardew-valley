@@ -14,19 +14,19 @@ MaxHeap.java and MyPriorityQueue.java to produce the scheduling system in the pr
 
 ## Included Files
 
-MyLifeInStardew.java - source file
-StardewDailyClock.java - source file
-MaxHeap.java - source file
-MaxHeapTest.java - source file
-Task.java - source file
-TaskInterface.java - source file
-TaskGenerator.java - source file
-TaskGeneratorInterface.java - source file
-MyPriorityQueue.java - source file
-PriorityQueueInterface.java - source file
-HeapException.java - source file 
-run-tests.sh - test script (provided - Do not modify!)
-README.md - this file
+* MyLifeInStardew.java - source file
+* StardewDailyClock.java - source file
+* MaxHeap.java - source file
+* MaxHeapTest.java - source file
+* Task.java - source file
+* TaskInterface.java - source file
+* TaskGenerator.java - source file
+* TaskGeneratorInterface.java - source file
+* MyPriorityQueue.java - source file
+* PriorityQueueInterface.java - source file
+* HeapException.java - source file 
+* run-tests.sh - test script (provided - Do not modify!)
+* README.md - this file
 
 ## Reflection
 
