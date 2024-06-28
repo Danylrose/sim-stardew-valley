@@ -57,11 +57,10 @@ outputs.
 
 ## Compiling and Using
 
-From the directory containing all the source files, compile the classes:
-$ javac MaxHeap.java MyLifeInStardew.java MyPriorityQueue.java PriorityQueueInterface.java StardewDailyClock.java 
-Task.java TaskGenerator.java TaskGeneratorInterface.java TaskInterface.java
+* From the directory containing all the source files, compile the classes:
+$ javac MaxHeap.java MyLifeInStardew.java MyPriorityQueue.java PriorityQueueInterface.java StardewDailyClock.java Task.java TaskGenerator.java TaskGeneratorInterface.java TaskInterface.java
 
-Run CacheTest.java, the output will display how to run it.
+* Run MyLifeInStardew.java, the output will display how to run it.
 $ java MyLifeInStardew
 
 Output: java MyLifeInStardew Usage: java MyLifeInStardew  <max-priority>   <time-to-increment-priority>  
