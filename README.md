@@ -108,13 +108,13 @@ Total deaths/passouts: 0
 
 
 Run dos2unix run-test.sh test-cases/* to convert text files to Linux Format:
-$ dos2unix run-test.sh test-cases/*
+* $ dos2unix run-test.sh test-cases/*
 
 Run chmod +x run-tests.sh on Onyx server to execute permission to run tests:
-$ chmod +x run-tests.sh
+* $ chmod +x run-tests.sh
 
 Run ./run-tests.sh to run test-scripts:
-$ ./run-tests.sh
+* $ ./run-tests.sh
 
 Output:
 
